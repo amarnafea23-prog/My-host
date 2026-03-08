@@ -24,7 +24,7 @@ log = logging.getLogger("ELITE")
 # ══════════════════════════════════════════════════════════════
 #  الإعدادات
 # ══════════════════════════════════════════════════════════════
-TOKEN     = os.environ.get("TOKEN", "8358941344:AAGY-JseHG9XnZbGGymQfeHTqkYMgXLzQx0")
+TOKEN     = os.environ.get("TOKEN", "8741347112:AAErqD32d4GoHHr2dO8dD9exV3jL3bjDbIA")
 ADMIN_ID  = int(os.environ.get("ADMIN_ID", "8567682905"))
 ADMIN_IDS = [int(x) for x in os.environ.get("ADMIN_IDS", "8567682905,8206539702").split(",")]
 
